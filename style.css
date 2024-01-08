@@ -1,0 +1,68 @@
+#one{
+    height: 55px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+}    
+
+#flex,i,p{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+    
+
+
+#two{
+    display: flex;
+}
+
+#one img{
+    width: 90px;
+}   
+    
+.border{
+    border: 2px solid transparent;
+}
+
+.border:hover{
+    border: 2px solid transparent;
+}
+
+
+#four{
+    position: relative;
+    right:  160px;
+    top: 15px;
+}
+
+#nine{
+    position: relative;
+    right: 50px;
+}
+
+#seven{
+    position: relative;
+    top: 15px;
+    right: 140px;
+}
+
+#raju{
+    position: relative;
+    bottom: 10px;
+    font-size: small;
+}
+
+#zero{
+    position: relative;
+    bottom: 10px;
+}   
+
+#five{
+    position: relative;
+    top: 15px;
+    right: 110px;
+}
+
